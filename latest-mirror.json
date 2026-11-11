@@ -1,1 +1,11 @@
-{"version": "1.0.2", "notes": "Adaptive Software v1.0.2", "pub_date": "2026-11-05T06:39:58Z", "platforms": {"windows-x86_64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb1AvN3hTaTY2WjZ0MXFyYzF5QUs2N3pab0hGU29SN3BWclNNQSt6OThhZEpWTHg3eTdMV3laMHBrK2xvckM3d2FUOFIrK0VkZ21EWFMxS0d1OFdIZHVTNFJQbGJFeHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODYwNzk2CWZpbGU6QWRhcHRpdmUgU29mdHdhcmVfMS4wLjJfeDY0LXNldHVwLmV4ZQpzQURPMHB5d015MERxbkNCTVpsTy8vSUZSZmdMSWtublI3STI4QnBhNlMrOTNxbERhN2ZTNHZZbGluSE1YRUhTY0FpaWpGcFcvS2pZUHVvOWRvcy9EUT09Cg==", "url": "https://ghproxy.net/https://github.com/libai6666/adaptive-software-updates/releases/download/v1.0.2/Adaptive-Software-1.0.2-x64-setup.exe"}}}
+{
+  "version": "1.0.3",
+  "notes": "Adaptive Software v1.0.3",
+  "pub_date": "2026-11-11T06:12:44Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb1AvN3hTaTY2Wi9YSnIreUUrMHQ3eWoxck9PbkM5T2ZPYlkxVlpqdWc4dUx5Sm9VYVBDYTFqangxSzRmbHFobnRSeFAwMFMzWDdEZHliNllTOSt5YXdaMWE2NjNNY1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzc3NTUzCWZpbGU6QWRhcHRpdmUgU29mdHdhcmVfMS4wLjNfeDY0LXNldHVwLmV4ZQpJN2tjTjdvTjVjZXRNQ3JuZG4yUzR0VnZZM1p0QS85elJ4aVRoSm5WLzd6VS9YQ1d5Rm9pM2hnRkdiZEcyK2dodXpKS1IxR1paZm53WU9uZUhrbGhDdz09Cg==",
+      "url": "https://ghproxy.net/https://github.com/libai6666/adaptive-software-updates/releases/download/v1.0.3/Adaptive-Software-1.0.3-x64-setup.exe"
+    }
+  }
+}
